@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(120,120)">
+    <rect width="320" height="320" rx="40" fill="url(#accent)" opacity="0.08"/>
+    <rect x="32" y="32" width="320" height="320" rx="40" fill="url(#accent)" opacity="0.08"/>
+    <path d="M126 96h260v72H126zM96 180h320l-40 120H136z" fill="url(#accent)" opacity="0.75"/>
+    <circle cx="256" cy="64" r="48" fill="url(#accent)" opacity="0.9"/>
+  </g>
+  <text x="520" y="250" font-family="Geist, 'Inter', sans-serif" font-size="72" font-weight="700" fill="#f8fafc">
+    Smart Tagger
+  </text>
+  <text x="520" y="320" font-family="Geist, 'Inter', sans-serif" font-size="36" font-weight="500" fill="#cbd5f5">
+    Unreal Engine Tagging Toolkit
+  </text>
+  <text x="520" y="390" font-family="Geist, 'Inter', sans-serif" font-size="26" fill="#94a3b8">
+    Automate actor metadata, gameplay tags, and renaming from one panel.
+  </text>
+  <rect x="520" y="430" width="280" height="66" rx="12" fill="url(#accent)"/>
+  <text x="560" y="474" font-family="Geist, 'Inter', sans-serif" font-size="28" font-weight="600" fill="#0f172a">
+    Download the Plugin
+  </text>
+</svg>

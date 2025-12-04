@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Smart Tagger",
+  "Description": "Editor utility plugin that applies gameplay tags, metadata, and naming schemes to selected actors or assets.",
+  "Category": "Editor",
+  "CreatedBy": "Agentic Builder",
+  "CreatedByURL": "https://agentic-6e7542d2.vercel.app",
+  "DocsURL": "https://agentic-6e7542d2.vercel.app",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "RequiresBuildPlatform": false,
+  "Modules": [
+    {
+      "Name": "SmartTagger",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
+    }
+  ]
+}
